@@ -44,10 +44,12 @@ public class DecisionMaker {
 		//System.out.println("You should " + decision(12, 8) + " Project 4");
 		System.out.println("aaa");
 		Mystery mys = new Mystery(3);
-		System.out.println("aaa1");
+		
+		System.out.println("Diary rechanged");
 		
 		
 		System.out.println("New repository installed");
+		System.out.println("Change to diary");
 	}
 
 }
