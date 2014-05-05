@@ -47,6 +47,7 @@ public class DecisionMaker {
 		System.out.println("aaa1");
 		
 		
+		System.out.println("New repository installed");
 	}
 
 }
