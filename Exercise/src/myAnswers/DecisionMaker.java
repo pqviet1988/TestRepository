@@ -45,10 +45,10 @@ public class DecisionMaker {
 		System.out.println("aaa");
 		Mystery mys = new Mystery(3);
 		
-		System.out.println("Diary rechanged");
+		System.out.println("Update diary");
 		
 		
-		System.out.println("New repository installed");
+		System.out.println("submission rechanged repository installed");
 		System.out.println("Change to diary");
 	}
 
