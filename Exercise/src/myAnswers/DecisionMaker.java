@@ -42,12 +42,13 @@ public class DecisionMaker {
 		//System.out.println("You should " + decision(2, 5) + " Project 3");
 		/* Project 4: Hard but with lots of time */
 		//System.out.println("You should " + decision(12, 8) + " Project 4");
+		for (int i = 0; i < 3; i++){
 		System.out.println("aaa");
-		Mystery mys = new Mystery(3);
+		//Mystery mys = new Mystery(3);
 		
-		for (int i = 0; i < 3; i++)
+		
 			System.out.println("Update diary");
-		
+		}
 		
 		System.out.println("submission rechanged repository installed");
 		System.out.println("Change to diary");
