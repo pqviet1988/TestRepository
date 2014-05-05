@@ -45,7 +45,8 @@ public class DecisionMaker {
 		System.out.println("aaa");
 		Mystery mys = new Mystery(3);
 		
-		System.out.println("Update diary");
+		for (int i = 0; i < 3; i++)
+			System.out.println("Update diary");
 		
 		
 		System.out.println("submission rechanged repository installed");
